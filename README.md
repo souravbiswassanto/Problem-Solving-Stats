@@ -1,7 +1,7 @@
 # Problem-Solving-Stats
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)[Monster_Nerd](https://codeforces.com/profile/Monster_nerd) [Monster_Nerd](https://codeforces.com/profile/Monster_nerd)| 2433 |
+| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_),[Monster_Nerd](https://codeforces.com/profile/Monster_nerd), [Monster_Nerd](https://codeforces.com/profile/Monster_nerd)| 2433 |
 | CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 314 |
 | AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 221 |
 | SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 172 | 
