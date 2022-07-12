@@ -1,7 +1,7 @@
 # Problem-Solving-Stats
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Leetcode | [Hiro_hamada](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 63 |
+| Leetcode | [Hiro_hamada](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 73 |
 | Interviewbit | [Hiro_hamada](https://leetcode.com/Hiro_hamada/)| 62 |
 | Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 400 |
 | Codeforces | [Hidden Account. Not eager to provide Handle](https://codeforces.com/profile/)| 400 |
@@ -27,4 +27,5 @@
 | HackerEarth | [sourav351](https://www.hackerearth.com/@sourav351) | 7 |
 | HackerRank | [sourav_cse4_bu](https://www.hackerrank.com/sourav_cse4_bu?hr_r=1) | 2 |
 | CS Academy | [sourav_biswas_santo](https://csacademy.com/user/sourav_biswas_santo) | 6 |
+| Newton's Coding School | [sourav.cse4.bu](https://my.newtonschool.co/user/sourav.cse4.bu/) | 6 |
 | Total | | 4364 |
