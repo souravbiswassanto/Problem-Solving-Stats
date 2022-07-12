@@ -1,6 +1,8 @@
 # Problem-Solving-Stats
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
+| Leetcode | [Hiro_hamada](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 63 |
+| Interviewbit | [Hiro_hamada](https://leetcode.com/Hiro_hamada/)| 62 |
 | Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 400 |
 | Codeforces | [Hidden Account. Not eager to provide Handle](https://codeforces.com/profile/)| 400 |
 | Codeforces | [Conficker](https://codeforces.com/profile/Conficker)| 205 |
@@ -18,10 +20,11 @@
 | Toph | [Believers](https://toph.co/u/Believers) | 25 |
 | Vjudge | [sourav_santo](https://vjudge.net/user/sourav_santo) | 26 |
 | Vjudge | [Believers](https://vjudge.net/user/Believers) | 22 |
-| UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
-| HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
-| HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
-| Kattis | [shahjalal-shohag](https://open.kattis.com/users/shahjalal-shohag) | 9 |
-| CS Academy | [YouKnowWho](https://csacademy.com/user/YouKnowWho) | 14 |
-| TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 22 |
+| Vjudge | [souravcsebu](https://vjudge.net/user/souravcsebu) | 13 |
+| Vjudge | [sourav](https://vjudge.net/user/souravcse1996) | 5 |
+| UVA | [sourav_biswas_santo (Uva id - 900836](http://uhunt.onlinejudge.org/id/900836) | 112 |
+| UVA | [sourav_biswas_santo1 (Uva id - 938629](http://uhunt.onlinejudge.org/id/938629) | 22 |
+| HackerEarth | [sourav351](https://www.hackerearth.com/@sourav351) | 7 |
+| HackerRank | [sourav_cse4_bu](https://www.hackerrank.com/sourav_cse4_bu?hr_r=1) | 2 |
+| CS Academy | [sourav_biswas_santo](https://csacademy.com/user/sourav_biswas_santo) | 6 |
 | Total | | 4364 |
