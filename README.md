@@ -1,13 +1,23 @@
 # Problem-Solving-Stats
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_),[Monster_Nerd](https://codeforces.com/profile/Monster_nerd), [Monster_Nerd](https://codeforces.com/profile/Monster_nerd)| 2433 |
-| CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 314 |
-| AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 221 |
-| SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 172 | 
-| LightOJ | [youkn0wwho](https://lightoj.com/user/youkn0wwho) | 174 | 
-| Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 279 |
-| Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 687 |
+| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 400 |
+| Codeforces | [Hidden Account. Not eager to provide Handle](https://codeforces.com/profile/)| 400 |
+| Codeforces | [Conficker](https://codeforces.com/profile/Conficker)| 205 |
+| Codeforces | [sourav_biswas_santo](https://codeforces.com/profile/sourav_biswas_santo)| 216 |
+| Codeforces | [kumropotash](https://codeforces.com/profile/kumropotash)| 159 |
+| Codeforces | [stranger1234](https://codeforces.com/profile/stranger1234)| 142 |
+| Codeforces | [Hiro_hamada](https://codeforces.com/profile/Hiro_hamada)| 57 |
+| CodeChef | [hiro_hamada2](https://www.codechef.com/users/hiro_hamada2) | 135 |
+| CodeChef | [kumropotash](https://www.codechef.com/users/kumropotash) | 49 |
+| AtCoder | [hiro_hamada](https://atcoder.jp/users/hiro_hamada) | 70 |
+| SPOJ | [sourav1996](https://www.spoj.com/users/sourav1996/) | 14 | 
+| LightOJ | [Sourav Biswas](https://lightoj.com/user/sourav-cse4-) | 67 | 
+| Toph | [Sourav1234](https://toph.co/u/Sourav1234) | 188 |
+| Toph | [High_Tempered](https://toph.co/u/High_tempered) | 26 |
+| Toph | [Believers](https://toph.co/u/Believers) | 25 |
+| Vjudge | [sourav_santo](https://vjudge.net/user/sourav_santo) | 26 |
+| Vjudge | [Believers](https://vjudge.net/user/Believers) | 22 |
 | UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
 | HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
 | HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
