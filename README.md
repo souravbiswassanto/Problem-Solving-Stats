@@ -28,4 +28,9 @@
 | HackerRank | [sourav_cse4_bu](https://www.hackerrank.com/sourav_cse4_bu?hr_r=1) | 2 | N/A |
 | CS Academy | [sourav_biswas_santo](https://csacademy.com/user/sourav_biswas_santo) | 6 | 1200|
 | Newton's Coding School | [sourav.cse4.bu](https://my.newtonschool.co/user/sourav.cse4.bu/) | 6 | 2212|
-| Total | | 2458 |
+| CodeMarshal | [Sourav Biswas](https://algo.codemarshal.org/users/sourav1996) | 32 | N/A|
+| CSES | [Not Eager to SHare id](https://algo.codemarshal.org/users/sourav1996) | 30 | N/A|
+| Facebook | [Facebook HackerCup মি.শান্ত](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/332332974636325) | 7 | N/A|
+| Google Kickstart and CodeJam | [sourav.cse4.bu(_dormammu_)](https://github.com/souravbiswassanto/Codes) | 29 | N/A|
+| Total | | 2556 |
+https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/332332974636325
