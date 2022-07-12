@@ -1,8 +1,8 @@
 # Problem-Solving-Stats
 | OJ | Username | Solve Count | Rating |
 | -- | -------- | ----------- | -------|
-| Leetcode | [Hiro_hamada](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 73 | 1684 |
-| Interviewbit | [Hiro_hamada](https://leetcode.com/Hiro_hamada/)| 62 | N/A |
+| Leetcode | [Hiro_hamada](https://leetcode.com/Hiro_hamada/)| 73 | 1684 |
+| Interviewbit | [souravcse4bu_d846b9a99d1c](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 62 | N/A |
 | Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 400 | 1674 |
 | Codeforces | [Hidden Account. Not eager to provide Handle](https://codeforces.com/profile/)| 400 | Won't Say |
 | Codeforces | [Conficker](https://codeforces.com/profile/Conficker)| 205 | 1609 |
@@ -33,4 +33,3 @@
 | Facebook | [Facebook HackerCup মি.শান্ত](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/332332974636325) | 7 | N/A|
 | Google Kickstart and CodeJam | [sourav.cse4.bu(_dormammu_)](https://github.com/souravbiswassanto/Codes) | 29 | N/A|
 | Total | | 2556 |
-https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/332332974636325
