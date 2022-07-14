@@ -32,4 +32,4 @@
 | CSES | [Not Eager to SHare id](https://algo.codemarshal.org/users/sourav1996) | 30 | N/A| N/A|
 | Facebook | [Facebook HackerCup মি.শান্ত](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/332332974636325) | 7 | N/A| 1|
 | Google Kickstart and CodeJam | [sourav.cse4.bu(_dormammu_)](https://github.com/souravbiswassanto/Codes) | 29 | N/A| 7|
-| Total | | 2556 | 455|
+| Total | | 2556 | |455|
