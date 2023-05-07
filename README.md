@@ -3,7 +3,7 @@
 | -- | -------- | ----------- | -------| -------|          
 | Leetcode | [Hiro_hamada](https://leetcode.com/Hiro_hamada/)| 186 | 1824 | 5|
 | Interviewbit | [souravcse4bu_d846b9a99d1c](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 65 | N/A | 2|
-| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 529 | 1708 | 131|
+| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 598 | 1789 | 150|
 | Codeforces | [Hidden Account. Not eager to provide Handle](https://codeforces.com/profile/)| 400 | Won't Say |57|
 | Codeforces | [Conficker](https://codeforces.com/profile/Conficker)| 205 | 1609 |33|
 | Codeforces | [sourav_biswas_santo](https://codeforces.com/profile/sourav_biswas_santo)| 216 | 1395 |21|
@@ -32,4 +32,4 @@
 | CSES | [Not Eager to SHare id](https://algo.codemarshal.org/users/sourav1996) | 30 | N/A| N/A|
 | Facebook | [Facebook HackerCup মি.শান্ত](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/332332974636325) | 11 | N/A| 2|
 | Google Kickstart and CodeJam | [sourav.cse4.bu(_dormammu_)](https://github.com/souravbiswassanto/Codes) | 29 | N/A| 7|
-| Total | | 2873 | |480|
+| Total | | 2950 | |500|
